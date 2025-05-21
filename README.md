@@ -45,7 +45,7 @@ A modern and responsive notes-taking application built with the **MERN stack**. 
 
 ### 1. Clone the repository:
 ```bash
-[git clone https://github.com/your-username/mern-notes-app.git](https://github.com/dineshkumarc9102/Dineshkumar_Scribbly_Using_MERN/)
+(https://github.com/dineshkumarc9102/Dineshkumar_Scribbly_Using_MERN/)
 cd backend
 npm install
 # Create a .env file and add:
