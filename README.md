@@ -45,5 +45,19 @@ A modern and responsive notes-taking application built with the **MERN stack**. 
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mern-notes-app.git
-cd mern-notes-app
+[git clone https://github.com/your-username/mern-notes-app.git](https://github.com/dineshkumarc9102/Dineshkumar_Scribbly_Using_MERN/)
+cd backend
+npm install
+# Create a .env file and add:
+# MONGO_URI=your_mongodb_uri
+# UPSTASH_REDIS_REST_URL=your_upstash_url
+# UPSTASH_REDIS_REST_TOKEN=your_upstash_token
+npm run dev
+
+cd ../frontend
+npm install
+npm run dev
+
+
+Let me know if you'd like to include deployment instructions for Render, or other platforms.
+
